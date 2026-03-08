@@ -13,7 +13,7 @@ This page presents the main facts about each planet, together with a few interes
 
 ## Mercury
 
-![Mercury](assets/images/mercury.jfif)
+![Mercury](assets/images/mercury.jpg)
 
 Mercury is the **closest planet to the Sun** and also the **smallest planet** in the solar system. It moves around the Sun faster than any other planet, completing one orbit in just **88 Earth days**. Mercury has no moons and almost no atmosphere, which is why its surface temperatures change dramatically between day and night. 
 
@@ -31,7 +31,7 @@ Mercury is the **closest planet to the Sun** and also the **smallest planet** in
 
 ## Venus
 
-![Venus](assets/images/venus.jfif)
+![Venus](assets/images/venuss.jfif)
 
 Venus is the **second planet from the Sun** and Earth’s closest planetary neighbor. It is similar to Earth in size, which is why it is sometimes called Earth’s twin, but its environment is extremely hostile. Its thick atmosphere causes a **runaway greenhouse effect**, making Venus the **hottest planet in the solar system**. 
 
@@ -49,7 +49,7 @@ Venus is the **second planet from the Sun** and Earth’s closest planetary neig
 
 ## Earth
 
-![Earth](assets/images/earth.jfif)
+![Earth](assets/images/earthh.jfif)
 
 Earth is the **third planet from the Sun** and the **only world known to support life**. It is the fifth largest planet in the solar system and the largest of the four rocky inner planets. Liquid water covers much of Earth’s surface, and its atmosphere and temperature make it suitable for life. 
 
@@ -67,7 +67,7 @@ Earth is the **third planet from the Sun** and the **only world known to support
 
 ## Mars
 
-![Mars](assets/images/mars.jfif)
+![Mars](assets/images/marss.jfif)
 
 Mars is the **fourth planet from the Sun**. It is a cold, dusty desert world with a very thin atmosphere. Mars has seasons, polar ice caps, giant volcanoes, deep canyons, and weather, which makes it one of the most studied planets in the solar system. 
 
@@ -85,7 +85,7 @@ Mars is the **fourth planet from the Sun**. It is a cold, dusty desert world wit
 
 ## Jupiter
 
-![Jupiter](assets/images/jupiter.jfif)
+![Jupiter](assets/images/jupiterr.jfif)
 
 Jupiter is the **largest planet** in the solar system. It is a gas giant made mostly of hydrogen and helium, and it has a very powerful atmosphere with cloud bands, storms, and strong winds. Jupiter also has a faint ring system and many moons. 
 
@@ -103,7 +103,7 @@ Jupiter is the **largest planet** in the solar system. It is a gas giant made mo
 
 ## Saturn
 
-![Saturn](assets/images/saturn.jfif)
+![Saturn](assets/images/saturnn.jfif)
 
 Saturn is the **sixth planet from the Sun** and the **second largest** in the solar system. It is a gas giant made mostly of hydrogen and helium and is best known for its spectacular ring system. 
 
@@ -121,7 +121,7 @@ Saturn is the **sixth planet from the Sun** and the **second largest** in the so
 
 ## Uranus
 
-![Uranus](assets/images/uranus.jfif)
+![Uranus](assets/images/uranuss.jfif)
 
 Uranus is the **seventh planet from the Sun** and the **third largest** planet in the solar system. It is an ice giant and is known for its unusual rotation. The planet is very cold, windy, and surrounded by faint rings and many small moons.
 
@@ -139,7 +139,7 @@ Uranus is the **seventh planet from the Sun** and the **third largest** planet i
 
 ## Neptune
 
-![Neptune](assets/images/neptun.jfif)
+![Neptune](assets/images/neptunn.jfif)
 
 Neptune is the **eighth and most distant planet** in the solar system. It is a dark, cold ice giant with powerful winds and a deep blue appearance. Neptune is more than 30 times farther from the Sun than Earth and cannot be seen with the naked eye. 
 

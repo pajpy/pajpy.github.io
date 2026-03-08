@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
 
-  {% if page.title == "Home" %}
+  {% if page.title == "Space Explorer" %}
     <link rel="stylesheet" href="{{ '/assets/css/index.css' | relative_url }}">
   {% elsif page.title == "Planets" %}
     <link rel="stylesheet" href="{{ '/assets/css/planets.css' | relative_url }}">
@@ -15,21 +15,19 @@
 </head>
 <body>
   <header>
-   <header>
-  <h1>{{ page.title }}</h1>
-  <nav>
-    {% if page.title == "Space Explorer" %}
-      <a href="{{ '/planets' | relative_url }}">Planets</a>
-      <a href="{{ '/rockets' | relative_url }}">Rockets</a>
-    {% elsif page.title == "Planets" %}
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/rockets' | relative_url }}">Rockets</a>
-    {% elsif page.title == "Rockets" %}
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/planets' | relative_url }}">Planets</a>
-    {% endif %}
-  </nav>
-</header>
+    <h1>{{ page.title }}</h1>
+    <nav>
+      {% if page.title == "Space Explorer" %}
+        <a href="{{ '/planets' | relative_url }}">Planets</a>
+        <a href="{{ '/rockets' | relative_url }}">Rockets</a>
+      {% elsif page.title == "Planets" %}
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/rockets' | relative_url }}">Rockets</a>
+      {% elsif page.title == "Rockets" %}
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/planets' | relative_url }}">Planets</a>
+      {% endif %}
+    </nav>
   </header>
 
   <main>

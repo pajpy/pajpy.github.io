@@ -13,7 +13,7 @@ This page presents the main facts about each planet, together with a few interes
 
 ## Mercury
 
-![Mercury](assets/images/mercury.jpg)
+![Mercury](assets/images/mercuryy.jfif)
 
 Mercury is the **closest planet to the Sun** and also the **smallest planet** in the solar system. It moves around the Sun faster than any other planet, completing one orbit in just **88 Earth days**. Mercury has no moons and almost no atmosphere, which is why its surface temperatures change dramatically between day and night. 
 

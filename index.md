@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Home
+title: Space Explorer 
 ---
-
-# Space Explorer
 
 Space is the vast and mysterious expanse that exists beyond Earth's atmosphere. It contains everything from planets, stars, and galaxies to black holes and cosmic dust. For thousands of years, humans have looked up at the night sky with curiosity, wondering what lies beyond our world.
 

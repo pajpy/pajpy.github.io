@@ -139,7 +139,7 @@ Uranus is the **seventh planet from the Sun** and the **third largest** planet i
 
 ## Neptune
 
-![Neptune](assets/images/neptune.jfif)
+![Neptune](assets/images/neptun.jfif)
 
 Neptune is the **eighth and most distant planet** in the solar system. It is a dark, cold ice giant with powerful winds and a deep blue appearance. Neptune is more than 30 times farther from the Sun than Earth and cannot be seen with the naked eye. 
 

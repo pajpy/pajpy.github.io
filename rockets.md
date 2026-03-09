@@ -92,7 +92,7 @@ Reusable rockets are important because they can reduce launch costs and allow mo
 
 Below is a small JavaScript example of a simple rocket countdown.
 
-```javascript
+```js
 let countdown = 10;
 
 while (countdown > 0) {

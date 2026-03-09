@@ -11,7 +11,8 @@ header {
     text-align: center;
     padding: 30px 20px 15px;
     background: rgba(0, 0, 0, 0.45);
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(3px);
+    border-bottom: 1px solid rgba(120, 180, 255, 0.2);
 }
 
 h1 {
@@ -50,10 +51,11 @@ main {
     max-width: 1000px;
     margin: 40px auto;
     padding: 35px;
-    background: rgba(8, 12, 25, 0.78);
+    background: rgba(8, 12, 25, 0.8);
     border-radius: 18px;
-    box-shadow: 0 0 24px rgba(0, 0, 0, 0.45);
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.45), 0 0 25px rgba(90, 150, 255, 0.08);
     line-height: 1.8;
+    border: 1px solid rgba(120, 180, 255, 0.12);
 }
 
 h2 {
